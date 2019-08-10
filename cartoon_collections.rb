@@ -6,6 +6,7 @@ def roll_call_dwarves(dwarves)
   fullArray.push(dwarves[0])
   num += 1
   dwarves =+ 1
+end
 return fullArray
 end
 
