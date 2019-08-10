@@ -11,6 +11,7 @@ def summon_captain_planet(veggies)
 end
 
 def long_planeteer_calls(array)
+  item = 
   array.include?(array.length > 4)
 end
 
