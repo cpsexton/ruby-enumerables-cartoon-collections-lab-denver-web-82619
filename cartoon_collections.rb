@@ -10,7 +10,7 @@ def summon_captain_planet(veggies)
   veggies.collect {|item| item + "!"}
 end
 
-def long_planeteer_calls(calls_long)
+def long_planeteer_calls(array)
   array.include?(array.length > 4)
 end
 
