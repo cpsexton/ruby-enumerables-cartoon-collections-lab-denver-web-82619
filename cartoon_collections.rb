@@ -1,7 +1,9 @@
 def roll_call_dwarves(dwarves)
+  fullArray = []
   num = 1
   dwarves.join(num)
   num += 1
+return fullArray
 end
 
 def summon_captain_planet# code an argument here
