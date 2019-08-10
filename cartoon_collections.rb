@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)
   fullArray = []
   num = 1
-  while num < dwarves.length + 1 do
+  while num < dwarves.length do
     fullArray.push(num)
     fullArray.push(dwarves[0])
     num += 1
