@@ -1,14 +1,19 @@
 def roll_call_dwarves(dwarves)
   fullArray = []
   num = 1
-  while num < dwarves.length do
+  counter = 0
+  while counter < dwarves.length do
     fullArray.push(num)
-    fullArray.push(dwarves[0])
+    fullArray.push(dwarves[counter])
     num += 1
-    dwarves =+ 1
+    counter += 1
   end
 return fullArray
 end
+
+
+
+
 
 def summon_captain_planet(veggies)
   # Your code here
