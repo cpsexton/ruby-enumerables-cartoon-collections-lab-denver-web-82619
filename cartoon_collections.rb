@@ -1,5 +1,7 @@
 def roll_call_dwarves# code an argument here
-  # Your code here
+  num = 1
+  dwarves.join(num)
+  num += 1
 end
 
 def summon_captain_planet# code an argument here
