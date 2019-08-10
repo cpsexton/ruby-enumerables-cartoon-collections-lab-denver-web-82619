@@ -8,7 +8,7 @@ def roll_call_dwarves(dwarves)
     num += 1
     counter += 1
   end
-return fullArray
+return fullArray[]
 end
 
 
