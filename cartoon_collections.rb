@@ -1,8 +1,10 @@
 def roll_call_dwarves(dwarves)
   fullArray = []
   num = 1
-  dwarves.join(num)
+  fullArray.push(num ". ")
+  fullArray.push(dwarves[0])
   num += 1
+  dwarves =+ 1
 return fullArray
 end
 
