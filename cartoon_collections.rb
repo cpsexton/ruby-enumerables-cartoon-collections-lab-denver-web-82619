@@ -5,10 +5,6 @@ def roll_call_dwarves(dwarves)
   }
 end
 
-
-#puts "#{1 + number.to_i} is way better"
-
-
 def summon_captain_planet(veggies)
   # Your code here
 end
